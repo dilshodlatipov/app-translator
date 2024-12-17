@@ -22,7 +22,7 @@ logging:
   level:
     root: warn
   file:
-    name: app-pdf-bot.log
+    name: app-translator.log
   logback:
     rollingpolicy:
       max-file-size: 10MB
